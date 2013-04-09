@@ -1,0 +1,19 @@
+{
+  "name": "grunt-koko",
+  "version": "0.0.22",
+  "description": "grunt plugin to start koko as task.",
+  "main": "Gruntfile.js",
+  "scripts": {},
+  "repository": "",
+  "keywords": [
+    "gruntplugin"
+  ],
+  "author": "Fujisawa Shin",
+  "license": "BSD",
+  "dependencies": {
+    "koko": "~0.1.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  }
+}
