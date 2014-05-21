@@ -8,7 +8,7 @@
   "author": "Fujisawa Shin",
   "license": "BSD",
   "dependencies": {
-    "koko": "~0.1.1"
+    "koko": "~0.2.2"
   },
   "devDependencies": {
     "grunt": "~0.4.1"
