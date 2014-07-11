@@ -6,6 +6,10 @@
     "gruntplugin"
   ],
   "author": "Fujisawa Shin",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fnobi/grunt-koko.git"
+  },
   "license": "BSD",
   "dependencies": {
     "koko": "~0.2.2"
