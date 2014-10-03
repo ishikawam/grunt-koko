@@ -1,6 +1,6 @@
 {
   "name": "grunt-koko",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "grunt plugin to start koko as task.",
   "keywords": [
     "gruntplugin"
