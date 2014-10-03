@@ -23,6 +23,12 @@ module.exports = function(grunt) {
             debug: {
                 openPath: '/',
                 proxyURL: 'http://fnobi.com/'
+            },
+            assetsChecker: {
+                root: 'htdocs/',
+                staticPort: '9999',
+                openPath: '/',
+                usePHP: true,
             }
         }
     });
